@@ -1,7 +1,6 @@
 //* tipo de dado
 //* boolean
 
-//! converção implícita
 const number = 456;
 const textNumber = '456';
 
@@ -11,6 +10,4 @@ console.log(number == textNumber); // compara o valor da variavel indepente do t
 //* Number()
 //* String()
 console.log(number + Number(textNumber));
-
-//! converção explícita
 
