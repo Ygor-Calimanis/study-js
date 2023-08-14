@@ -9,3 +9,5 @@ const text1 = "Alura";
 const text2 = "alura";
 
 console.log(text1 === text2);
+
+
